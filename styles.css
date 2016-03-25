@@ -1,0 +1,5 @@
+body {background-color: #D2B48C;}
+h1 {color: blue;font-style: verdana;font-size: 300%}
+p {color:white;font-style: courier;font-size: 150%;border: 1px solid white}
+#p01 {color:blue;}
+p.error {color:red;}
